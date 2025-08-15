@@ -1,4 +1,4 @@
-# Qur'anic Universal :ibrary Qur'an Mushaf Layouts
+# Qur'anic Universal Library Qur'an Mushaf Layouts
 
 The Quranic Universal Library (QUL)'s Qur'an mushaf 15-line layouts (madini, uthmani), available as SQLite databases.
 
